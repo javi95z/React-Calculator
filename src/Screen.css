@@ -1,0 +1,15 @@
+.Screen {
+    align-items: flex-end;
+    background: #000;
+    box-sizing: border-box;
+    color: #fff;
+    display: flex;
+    font-size: 70px;
+    font-weight: 300;
+    height: 40%;
+    justify-content: flex-end;
+    overflow: hidden;
+    padding: 0 15px;
+    position: relative;
+    width: 100%;
+}

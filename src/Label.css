@@ -1,0 +1,23 @@
+
+.Label {
+    background-color: #333;
+    border: none;
+    border-radius: 50%;
+    height: 35px;
+    line-height: 30px;
+    padding: 10px;
+    text-align: center;
+    width: 35px;
+}
+
+.Label[data-type="number"] {
+    background-color: #333;
+}
+
+.Label[data-type="function"] {
+    background-color: #a5a5a5;
+}
+
+.Label[data-type="operator"] {
+    background-color: #fe9400;
+}

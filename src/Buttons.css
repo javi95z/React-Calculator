@@ -1,0 +1,7 @@
+.Buttons {
+    background-color: #000;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 60%;
+}
